@@ -57,7 +57,7 @@ general usage :
 
 If you chosed to install the program using conda, first activate the environment:
 ```
-conda activate 
+conda activate focr_env
 ```
 Then, either you use the jupyter notebook
 ```
