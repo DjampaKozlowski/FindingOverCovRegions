@@ -12,7 +12,7 @@ Each position of the genome is scanned using a sliding window. For each position
 
 ## Installation
 FindOverCovRegions.py was developed using python=3.9.9. It requieres the following packages :
-- MENDATORY : pandas (dev with version 1.4.2) 
+- MANDATORY : pandas (dev with version 1.4.2) 
 - OPTIONAL : jupyter notebook (dev with version)
 
 To install FindOverCovRegions, it is advised to create a dedicated virtual environment (here named focr_env) where to install the program. 
@@ -49,7 +49,7 @@ Finally, install the package
 ```
 pip install -e .
 ```
-NB : the installation of jupyter notebook is optional but mendatory if you want to play with the notebook ('/notebooks/OvercoveredRegions.ipynb')
+NB : the installation of jupyter notebook is optional but mandatory if you want to play with the notebook ('/notebooks/OvercoveredRegions.ipynb')
 
 
 ## Usage
